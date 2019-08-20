@@ -528,7 +528,7 @@ label {
 }
 
 .section.splash {
-    background: url(../images/header/UMSL-Test.png) fixed no-repeat;
+    background: url(../images/header/UMSL_Drop.png) fixed no-repeat;
     position: relative;
     z-index: 1;
 }
