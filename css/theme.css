@@ -533,6 +533,11 @@ label {
     z-index: 1;
 }
 
+.section.splash.img_block {
+    height: 100%;
+    width: auto;
+}
+
 .section.splash h1 {
     font-size: 50px;
     font-weight: 500;
