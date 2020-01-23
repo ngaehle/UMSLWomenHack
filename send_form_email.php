@@ -2,6 +2,7 @@
 // EDIT THE 2 LINES BELOW AS REQUIRED
 $send_email_to = "umslwomenhackathon@gmail.com";
 $email_subject = "Women's Hackathon Inquiry";
+
 function send_email($name,$email,$email_message)
 {
   global $send_email_to;
