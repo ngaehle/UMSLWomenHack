@@ -452,6 +452,7 @@ label {
 
 .header .navbar {
     background: #fff;
+    opacity: .1;
 }
 
 .header .navbar-nav>li>a {
