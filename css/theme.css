@@ -1178,7 +1178,7 @@ label {
 .icon-bar {
     position: fixed;
     top: 2%;
-    right: 5%;
+    right: 10%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
