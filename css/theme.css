@@ -641,7 +641,7 @@ label {
 }
 
 
-/*= SERVICES
+/*= SERVICES i.e. Featured Work
 ---------------------------------------------------------------------------------------------- */
 
 .gallery-control {
@@ -667,7 +667,7 @@ label {
 
 #Grid .mix>div .media-thumb {
     position: relative;
-    overflow: hidden;
+    /*--overflow: hidden;--*/
 }
 
 #Grid .mix>div .media-thumb img {
